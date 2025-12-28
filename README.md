@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Matheus Charavara
 
-For this GitHub all my projects are for the fake company I work in called Paramount Ampere. A company that develops engineering system and solutions for 🚞 passenger trains.
+For this GitHub all my projects are for the fake company I work in called Paramount Ampere. A company that develops engineering system and solutions for passenger trains.
 Currently I'm a newcomer in the company, working as LIV Leader of Engineering and Validation and my goal for 2026 is to develop validation test solutions for the company's train Rhaetian Railway Be 4/4.
 
 ### My work will rely on..
