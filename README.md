@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Matheus Charavara
 
-### And I work as 🚗 LIV Leader of Validation and Engineering at
+### I work as 🚗 LIV Leader of Validation and Engineering at
 <a href="https://www.linkedin.com/company/renaultgroup/posts/?feedView=all" target="_blank">
   <img alt="renault_logo" src="https://media.licdn.com/dms/image/v2/C4E0BAQF080vspTnXFA/company-logo_200_200/company-logo_200_200/0/1630640203117/renault_logo?e=1768435200&v=beta&t=uc9xDusq9PLjMOP-U0isI7B0nmiU34ANrnwolnLTqAU" width="80" />
 </a>
