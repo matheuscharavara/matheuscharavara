@@ -14,7 +14,7 @@ Currently I'm a newcomer in the company, working as LIV Leader of Engineering an
 ### .. to create my validation tests and automation using
 <p>
   <img alt="Vector" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Vector_Logo_black_red_RGB.svg" height="22" />
-  <img alt="CANoe" src="https://img.shields.io/badge/-CANoe-00AD7C?style=flat-square&logoColor=black" />
-  <img alt="CANalyzer" src="https://img.shields.io/badge/-CANalyzer-3D3BF3?style=flat-square&logoColor=white" />
-  <img alt="vSignalyzer" src="https://img.shields.io/badge/-vSignalyzer-FF2929?style=flat-square&logoColor=white" />
+  <img alt="CANoe" src="https://img.shields.io/badge/-CANoe /pro DE 19-00AD7C?style=flat-square&logoColor=black" />
+  <img alt="CANalyzer" src="https://img.shields.io/badge/-CANalyzer 19-3D3BF3?style=flat-square&logoColor=white" />
+  <img alt="vSignalyzer" src="https://img.shields.io/badge/-vSignalyzer 19-FF2929?style=flat-square&logoColor=white" />
 </p>
