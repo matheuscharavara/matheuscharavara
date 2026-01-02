@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Matheus Charavara
 
-For this GitHub all my projects are for the fake company I work in called Paramount Softworks. A company that develops engineering systems and solutions for passenger and cargo trains.
-Currently I'm a newcomer in the company, working as LIV Leader of Engineering and Validation.
+<description-here>
 
 ### My work will rely on..
 <p>
