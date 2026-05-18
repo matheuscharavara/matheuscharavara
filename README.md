@@ -1,19 +1,15 @@
 # I'm Matheus Charavara
 
+Electrical Engineer for Embedded Systems.
+Working for Renault Brazil as QA Automation and Validation Engineer.
+Skilled at Vektor Informatik Softwares and Vehicle Architecture.
+Skilled at developing Automation solutions for Validation.
 <description-here>
 
-### My work will rely on..
+### My projects in Git will rely on..
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-9900F0?style=flat-square&logo=c&logoColor=white" />
-  <img alt="CAPL" src="https://img.shields.io/badge/-CAPL-FBCB0A?style=flat-square&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-FB2576?style=flat-square&logo=python&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-332FD0?style=flat-square&logo=powershell&logoColor=white" />
-</p>
-
-### .. to create my validation tests and automation using
-<p>
-  <img alt="Vector" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Vector_Logo_black_red_RGB.svg" height="22" />
-  <img alt="CANoe" src="https://img.shields.io/badge/-CANoe /pro DE 19-00AD7C?style=flat-square&logoColor=black" />
-  <img alt="CANalyzer" src="https://img.shields.io/badge/-CANalyzer 19-3D3BF3?style=flat-square&logoColor=white" />
-  <img alt="vSignalyzer" src="https://img.shields.io/badge/-vSignalyzer 19-FF2929?style=flat-square&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-332FD0?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Raspberry" src="https://img.shields.io/badge/-Raspberry-332FD0?style=flat-square&logo=raspberry&logoColor=white" />
 </p>
